@@ -1,2 +1,2 @@
 # ToShare
-Archivo CamposEM_LineaCtoSencillo.ipynb: Código en Pyhton, en jupyterlab, para graficar campo eléctrico
+Código en PytHon, en jupyterlab, para graficar campo eléctrico línea de tr. cto sencillo.
